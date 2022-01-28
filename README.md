@@ -15,3 +15,7 @@
 In the project directory, you can run:
 
 #### `npm start`
+
+Download following modules
+ 
+ ##### @material ui/ axios/ browser router/ carousel
