@@ -19,3 +19,6 @@ In the project directory, you can run:
 Download following modules
  
  ##### @material ui/ axios/ browser router/ carousel
+
+ ## Authors
+- [Konarch Prasad ](https://github.com/konarch-dev)
